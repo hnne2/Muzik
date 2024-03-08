@@ -40,7 +40,7 @@ public class mytraks extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.mytraks);
         find(); //сопостовление обектов
-        Download1txtFromBase();  // сканирование плейлиста с базы
+        Download1txtFromBase();  // сканaирование плейлиста с базы
         updait.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
