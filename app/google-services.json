@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525438627459",
+    "project_id": "makity-muzik",
+    "storage_bucket": "makity-muzik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525438627459:android:3a2c76fbd567cf704ab5b6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525438627459-vuc81ej4h6hf3pcdgd54glql0qajdtoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqL6fMFmD9WoUG7lyzV0nSmorzOCeLX34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525438627459-vuc81ej4h6hf3pcdgd54glql0qajdtoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
